@@ -34,7 +34,7 @@ N.A.
 # 📝 Courseworks 
 
 
-[Case Study of the Blooth Speaker]()
+[Case Study of the Blooth Speaker](https://github.com/lhm2003/LHM2003.github.io/blob/main/_pages/English_Module_Presentation_Wearable_Biosensors.pdf)
 
 **Hanming Li**
 
