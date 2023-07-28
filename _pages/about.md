@@ -34,8 +34,7 @@ N.A.
 # 📝 Courseworks 
 
 
-[Case Study of the Blooth Speaker](https://github.com/lhm2003/LHM2003.github.io/blob/main/_pages/English_Module_Presentation_Wearable_Biosensors.pdf)
-
+[Case Study of the Blooth Speaker] 
 **Hanming Li**
 
 [Deformable Handbag]()
@@ -62,7 +61,7 @@ N.A.
 - *2021.07 - 2025.06 (now)*, BEng Materials SCience and Engineering, Northwestern Polytechnical University & Queen Mary University of London. 
 
 # 💬 Invited Talks
-- *2022.04*, QXU3102 English Module Presentation, Topic: **Wearable Biosensors**. PDF 
+- *2022.04*, QXU3102 English Module Presentation, Topic: **Wearable Biosensors**. PDF: https://github.com/lhm2003/LHM2003.github.io/blob/main/_pages/English_Module_Presentation_Wearable_Biosensors.pdf 
 - *2022.12*, QXU4016 Engineering Design and Method Module Presentation, Topic: **Deformable Handbag**, Responsibility for Solidwork stress and srain simulation. PDF
 - *2023.2*,  UQML11004 Mathematical Modelling and Caculation Module **Revision Tutorial Lecturer**. https://www.bilibili.com/video/BV1EX4y1n7am/?vd_source=83c1e44eeaeec67e61c6cfaa437cb939
 
