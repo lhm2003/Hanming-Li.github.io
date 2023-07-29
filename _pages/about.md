@@ -62,9 +62,9 @@ N.A.
 - *2021.07 - 2025.06 (now)*, BEng Materials SCience and Engineering, Northwestern Polytechnical University & Queen Mary University of London. 
 
 # 💬 Talking
-- *2022.04*, [QXU3102 English Module Presentation, Topic: **Wearable Biosensors**.](https://maifile.cn/est/d2366906094247/pdf) 
-- *2022.12*, [QXU4016 Engineering Design and Method Module Presentation, Topic: **Deformable Handbag**, Responsibility for Solidwork stress and srain simulation.](https://maifile.cn/est/d2536906092467/pdf)
-- *2023.2*,  [UQML11004 Mathematical Modelling and Caculation Module **Revision Tutorial Lecturer**.](https://www.bilibili.com/video/BV1EX4y1n7am/?vd_source=83c1e44eeaeec67e61c6cfaa437cb939)
+- *2022.04*, QXU3102 English Module Presentation, Topic: **Wearable Biosensors**.[PDF](https://maifile.cn/est/d2366906094247/pdf) 
+- *2022.12*, QXU4016 Engineering Design and Method Module Presentation, Topic: **Deformable Handbag**, Responsibility for Solidwork stress and srain simulation.[PDF](https://maifile.cn/est/d2536906092467/pdf)
+- *2023.2*,  UQML11004 Mathematical Modelling and Caculation Module **Revision Tutorial Lecturer**.[Video](https://www.bilibili.com/video/BV1EX4y1n7am/?vd_source=83c1e44eeaeec67e61c6cfaa437cb939)
 
 # 💻 Internships
 - *2022.03 - 2024.09(now)*, Institution of Flexible Electronics (IFE), Northwestern Polytechnical University, Xu Group, China, Supervisor: Weidong Xu.
