@@ -68,7 +68,7 @@ N.A.
   
 
 # 📖 Educations
-- *2021.07 - 2025.06 (now)*, BEng Materials SCience and Engineering, Northwestern Polytechnical University & Queen Mary University of London. 
+- *2021.07 - 2025.06 (now)*, BEng Materials Science and Engineering, Northwestern Polytechnical University & Queen Mary University of London. 
 
 # 💬 Talking
 - *2022.04*, QXU3102 English Module Presentation, Topic: **Wearable Biosensors**.[PDF](https://maifile.cn/est/d2366906094247/pdf) 
