@@ -19,7 +19,12 @@ redirect_from:
 
 
 
-My research interest includes perovskites materials and other functional materials. 
+
+Current research mainly includes perovskites materials that contain synthesis, characterization and applications such as blue LED devices. 
+Have basic ideas and protocols for pervskites single crystal synthesis and usage of common characterization instruments like XRD, PL, XPS and so on, which is my current project as well.
+Prefer to reading that covers mathematical, physics, economics and recording my reading process.
+Familiar with common computer program language such as Python, MATLAB, R.
+Try taking machine learning course and writing coursework paper via PyTorch. 
 
 
 # 🔥 News
@@ -67,4 +72,4 @@ N.A.
 - *2023.2*,  UQML11004 Mathematical Modelling and Caculation Module **Revision Tutorial Lecturer**.[Video](https://www.bilibili.com/video/BV1EX4y1n7am/?vd_source=83c1e44eeaeec67e61c6cfaa437cb939)
 
 # 💻 Internships
-- *2022.03 - 2024.09(now)*, Institution of Flexible Electronics (IFE), Northwestern Polytechnical University, Xu Group, China, Supervisor: Weidong Xu.
+- *2022.03 - 2024.09(now)*, Institution of Flexible Electronics (IFE), Northwestern Polytechnical University, Xu Group, China, Supervisor: Prof. Weidong Xu.
