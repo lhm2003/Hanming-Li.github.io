@@ -60,6 +60,7 @@ N.A.
 
 
 # 🎖 Honors and Awards
+- *2022.6*  The 8th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition **Second prize** in the Northwestern Polytechnical University preliminary round.
 - *2022.10* Northwestern Polytechnical University **Second Scholarship**. 
 - *2022.12* National Collegiate Mathematics Competition **Third prize** in the preliminary round. (Top 35%)
 - *2023.4*  2023 Mathematical Contest In Modeling and Interdisciplinary Contest In Modeling **Successfully Participated**.
