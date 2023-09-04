@@ -20,11 +20,9 @@ redirect_from:
 
 # 🔥 About Me
 
-- Current research mainly includes perovskites materials that contain synthesis, characterization and applications such as blue LED devices. 
+- Current research mainly includes perovskites materials that contain synthesis, characterization and applications.
 
-- Have basic ideas and protocols for perovskites single crystal synthesis and usage of common characterization instruments like XRD, PL, XPS and so on, which is my current project as well.
-
-- Prefer to reading that covers mathematical, physics, economics and recording my reading process.
+- Have basic ideas and protocols for perovskites single and nano crystal synthesis and usage of common characterization instruments like XRD, PL, XPS, TEM.
 
 - Familiar with common computer program language such as Python, MATLAB, R.
 
