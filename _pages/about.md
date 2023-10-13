@@ -22,11 +22,10 @@ redirect_from:
 
 - Current research mainly includes perovskites materials that contain synthesis, characterization and applications.
 
-- Have basic ideas and protocols for perovskites single and nano crystal synthesis and usage of common characterization instruments like XRD, PL, XPS, TEM.
+- Have basic ideas and protocols for perovskites single and nanocrystal synthesis and usage of common characterization instruments like XRD, PL, XPS, TEM.
 
-- Familiar with common computer program language such as Python, MATLAB, R.
+- Familiar with common computer program language such as Python, MATLAB, R and Pytorch.
 
-- Try taking machine learning course and writing coursework paper via PyTorch. 
 
 
 # 🔥 News
@@ -51,7 +50,7 @@ N.A.
 
 [The Fitting Model Toward the Number of Plant Species and the Growth of Plants under the Drought Conditions](https://maifile.cn/est/d2726906090150/pdf)
 
- 2023 Mathematical Contest In Modeling Submitted Papper
+ 2023 Mathematical Contest In Modeling Submitted Papper (Successful Participated)
  
 **Hanming Li**, Hao Xue, Wei You
 
@@ -62,9 +61,7 @@ N.A.
 - *2022.10* Northwestern Polytechnical University **Second Scholarship**. 
 - *2022.12* National Collegiate Mathematics Competition **Third prize** in the preliminary round. (Top 35%)
 - *2023.4*  2023 Mathematical Contest In Modeling and Interdisciplinary Contest In Modeling **Successfully Participated**.
-- *2023.6*  The 9th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition **Third prize** in the Northwestern Polytechnical University preliminary round.
-- *2023.6*  2023 National College Business Elite Challenge Innovation and Entrepreneurship Competition **Third prize** in the Northwestern Polytechnical University preliminary round.
-  
+
 
 # 📖 Educations
 - *2021.07 - 2025.06 (now)*, BEng Materials Science and Engineering, Northwestern Polytechnical University & Queen Mary University of London. 
@@ -77,4 +74,4 @@ N.A.
   [PDF](https://maifile.cn/est/a2316910691565/pdf)
 
 # 💻 Internships
-- *2022.03 - 2024.09(now)*, Institution of Flexible Electronics (IFE), Northwestern Polytechnical University, Xu Group, China, Supervisor: Prof. Weidong Xu.
+- *2022.03 - 2024.09(now)*, Institution of Flexible Electronics (IFE), Northwestern Polytechnical University, Xu Group, China, Supervisor: Prof. Weidong Xu and Dr. Gaoyu Chen.
